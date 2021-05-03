@@ -3,3 +3,5 @@ url: "https://vsp.berlin/"
 description: "VSP Project Sites"
 copyright: "(c) Technische Universität Berlin"
 credits: ""
+
+theme: jekyll-theme-minimal
